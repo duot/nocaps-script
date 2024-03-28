@@ -1,0 +1,2 @@
+#!/bin/bash
+setxkbmap us -option ctrl:nocaps -option shift:both_capslock
